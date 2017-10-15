@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/pikeman20/coin-hive-test",
   "dependencies": {
-	"coin-hive": "git+https://github.com/cazala/coin-hive.git"
+	"coin-hive": "latest",
+	"puppeteer": "latest"
   },
    "engines": {
     "node": ">=8.0",
