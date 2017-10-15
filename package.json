@@ -25,14 +25,10 @@
   },
   "homepage": "https://github.com/pikeman20/coin-hive-test",
   "dependencies": {
-    "ws": "^3.2.0",
-	"coin-hive": "^1.6.3",
-	"coin-hive-stratum": "^1.1.1",
-    "elegant-spinner": "^1.0.1",
-    "express": "^4.15.4",
-    "log-update": "^2.1.0",
-    "minimist": "^1.2.0",
-    "tty-table": "^2.5.5"
-    "puppeteer": "^0.10.2",
+	"coin-hive": "cazala/coin-hive"
+  },
+   "engines": {
+    "node": ">=8.0",
+    "npm": ">=5.0"
   }
 }
