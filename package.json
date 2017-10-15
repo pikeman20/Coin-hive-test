@@ -11,12 +11,7 @@
     "url": "git+https://github.com/pikeman20/coin-hive-test.git"
   },
   "keywords": [
-    "coinhive",
-    "coin-hive",
-    "proxy",
-    "websocket",
-    "server",
-    "client"
+    "coinhive"
   ],
   "author": "",
   "license": "MIT",
@@ -25,7 +20,7 @@
   },
   "homepage": "https://github.com/pikeman20/coin-hive-test",
   "dependencies": {
-	"coin-hive": "cazala/coin-hive"
+	"coin-hive": "git+https://github.com/cazala/coin-hive.git"
   },
    "engines": {
     "node": ">=8.0",
