@@ -35,12 +35,4 @@
     "tty-table": "^2.5.5"
     "puppeteer": "^0.10.2",
   }
-  "devDependencies": {
-    "expect": "^21.1.0",
-    "mocha": "^3.5.3"
-  },
-  "engines": {
-    "node": ">=8.0",
-    "npm": ">=5.0"
-  }
 }
